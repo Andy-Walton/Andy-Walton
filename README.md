@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Andy</h1>
-<h3 align="center">I'm an undergraduate Evolutionary Biology student from the UK</h3>
+<h3 align="center">I'm an undergrad Evolutionary Biology student from the UK</h3>
 
 - 🌱 I’m currently working on **a project on warning colour polymorphism in the butterfly danaus chrysippus**
 
