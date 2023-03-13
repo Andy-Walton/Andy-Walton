@@ -7,7 +7,7 @@
 
 - 📫 Reach out via **andyjmwalton@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Mostly post about my research here:</h3>
 <p align="left">
 <a href="https://twitter.com/andyjmwalton" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="andyjmwalton" height="30" width="40" /></a>
 </p>
