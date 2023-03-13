@@ -1,5 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Andy</h1>
-<h3 align="center">I'm an MRes Biodiversity, Evolution and Conversation student at UCL</h3>
+<h3 align="center">I'm an MRes Biodiversity, Evolution and Conservation student at UCL</h3>
+
+- 🧬 Interested in **Evolutionary biology, Genetics and Machine Learning**
 
 - 🌱 I’m currently working at the Institute of Zoology, London on **a project to try and predict biodivesity loss using remote sensing and deep learning**
 
