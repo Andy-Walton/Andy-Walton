@@ -5,4 +5,7 @@
 
 - 📫 Reach out via **andyjmwalton@gmail.com**
 
-[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/andyjmwalton.svg?style=social&label=Follow%20%40andyjmwalton)](https://twitter.com/andyjmwalton)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/andyjmwalton" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="andyjmwalton" height="30" width="40" /></a>
+</p>
