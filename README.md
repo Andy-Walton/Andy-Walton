@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Andy</h1>
-<h3 align="center">I'm an MRes Biodiversity, Evolution and Conservation student at UCL</h3>
+<h3 align="center">I’m a PhD student at the UCL Genetics Institute.L</h3>
 
 - 🧬 Interested in **Evolutionary biology, Genetics and Machine Learning**
 
-- 🌱 I’m currently working at the Institute of Zoology, London on **a project to try and predict biodivesity loss using remote sensing and deep learning**
-
-- 📫 Reach out via **andyjmwalton@gmail.com**
+- 📫 Reach out via **andyjmwalton[at]gmail[dot]com**
 
 <h3 align="left">Mostly post about my research here:</h3>
 <p align="left">
