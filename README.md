@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Andy</h1>
-<h3 align="center">I’m a PhD student at the UCL Genetics Institute.L</h3>
+<h3 align="center">I’m a PhD student at the UCL Genetics Institute</h3>
 
 - 🧬 Interested in **Evolutionary biology, Genetics and Machine Learning**
 
