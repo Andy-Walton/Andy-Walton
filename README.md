@@ -7,5 +7,5 @@
 
 <h3 align="left">Mostly post about my research here:</h3>
 <p align="left">
-<a href="https://twitter.com/andyjmwalton" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="andyjmwalton" height="30" width="40" /></a>
+<a href="https://bsky.app/profile/andyjmwalton.bsky.social" target="blank"><img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/bluesky.svg" alt="andyjmwalton" height="30" width="40" /></a>
 </p>
