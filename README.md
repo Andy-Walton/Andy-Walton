@@ -7,6 +7,7 @@
 
 <h3 align="left">Mostly post about my research here:</h3>
 <p align="left">
-<a href="https://bsky.app/profile/andyjmwalton.bsky.social" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/bluesky.svg"
-     style="filter: invert(43%) sepia(93%) saturate(1352%) hue-rotate(190deg) brightness(119%) contrast(119%);" alt="Bluesky" height="30" width="40" /></a>
+  <a href="https://bsky.app/profile/andyjmwalton.bsky.social">
+    <img src="https://img.shields.io/badge/Bluesky-andyjmwalton-blue?logo=bluesky&logoColor=white" />
+  </a>
 </p>
