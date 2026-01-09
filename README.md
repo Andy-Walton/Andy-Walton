@@ -3,7 +3,7 @@
 
 - 🧬 Interested in **Evolutionary biology, Genetics and Machine Learning**
 
-- 📫 Reach out via **andyjmwalton[at]gmail[dot]com**
+- 📫 Reach out via **andrew.walton.22[at]ucl[dot]ac[dot]uk**
 
 <h3 align="left">Mostly post about my research here:</h3>
 <p align="left">
